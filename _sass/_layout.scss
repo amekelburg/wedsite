@@ -1,31 +1,64 @@
+.all-content-wrapper {
+  opacity: 0.25;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  img {
+    min-height: 100%;
+    min-width: 100%;
+  }
+}
+
 /**
  * Site header
  */
 .site-header {
     border-top: 5px solid $grey-color-dark;
-    border-bottom: 1px solid $grey-color-light;
+    border-bottom: 1px solid $grey-color-med;
     min-height: 56px;
 
     // Positioning context for the mobile navigation icon
     position: relative;
+    @include media-query($on-palm) {
+      position: fixed;
+      top:0;
+      min-height: 56px;
+      width: 100%;
+      background: $background-color;
+    }
 }
 
 .site-title {
-    font-size: 26px;
+    font-size: 30px;
     line-height: 56px;
-    letter-spacing: -1px;
     margin-bottom: 0;
-    float: left;
-
+    float: none;
+    display: block;
+    text-align: center;
+    font-family: "Amatic SC";
     &,
     &:visited {
         color: $grey-color-dark;
     }
+    @include media-query($on-palm) {
+      font-size: 18px;
+      text-align: left;
+    }
 }
 
 .site-nav {
-    float: right;
+    float: none;
     line-height: 56px;
+    margin: 0px auto;
+    width: auto;
+    text-align: center;
+    font-family: "Amatic SC";
+    font-weight: bold;
+    font-size: 28px;
+    letter-spacing: 1px;
+    position: relative;
 
     .menu-icon {
         display: none;
@@ -44,21 +77,26 @@
     @include media-query($on-palm) {
         position: absolute;
         top: 9px;
-        right: 30px;
+        right: 20px;
         background-color: $background-color;
-        border: 1px solid $grey-color-light;
+        border: 1px solid $grey-color-med;
         border-radius: 5px;
         text-align: right;
 
         .menu-icon {
             display: block;
             float: right;
-            width: 36px;
+            width: 66px;
             height: 26px;
             line-height: 0;
-            padding-top: 10px;
-            text-align: center;
-
+            padding: 10px 5px 0;
+            text-align: right;
+            color: $text-color;
+            span {
+              display: block;
+              float: left;
+              padding-top: 7px;
+            }
             > svg {
                 width: 18px;
                 height: 15px;
@@ -92,8 +130,9 @@
  * Site footer
  */
 .site-footer {
-    border-top: 1px solid $grey-color-light;
+    border-top: 1px solid $grey-color-med;
     padding: $spacing-unit 0;
+    position: relative;
 }
 
 .footer-heading {
@@ -162,7 +201,11 @@
  * Page content
  */
 .page-content {
+    position: relative;
     padding: $spacing-unit 0;
+    @include media-query($on-palm) {
+      margin-top: 50px;
+    }
 }
 
 .page-heading {
@@ -199,7 +242,8 @@
 
 .post-title {
     font-size: 42px;
-    letter-spacing: -1px;
+    letter-spacing: 0px;
+    font-family: "janda";
     line-height: 1;
 
     @include media-query($on-laptop) {
@@ -232,5 +276,16 @@
         @include media-query($on-laptop) {
             font-size: 18px;
         }
+    }
+    
+    
+    .content-with-slideshow {
+      float: left;
+      width: 60%;
+    }
+    .slideshow {
+      float: left;
+      width: 300px;
+      height: 250px;
     }
 }

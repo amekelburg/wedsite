@@ -5,6 +5,10 @@
 
   <body>
 
+    <div class="all-content-wrapper">
+      <img src='/img/slide9.JPG' />
+      
+    </div>
     {% include header.html %}
 
     <div class="page-content">
@@ -15,6 +19,31 @@
 
     {% include footer.html %}
 
+    <script>
+      $(".slideshow").vegas({
+          delay: 2500,
+          slides: [
+              { src: "/img/slide1.JPG" },
+              { src: "/img/slide2.JPG" },
+              { src: "/img/slide3.JPG" },
+              { src: "/img/slide4.JPG" },
+              { src: "/img/slide14.JPG" },
+            
+              { src: "/img/slide6.JPG" },
+              { src: "/img/slide5.JPG" },
+              { src: "/img/slide7.JPG" },
+              { src: "/img/slide8.JPG" },
+              { src: "/img/slide11.JPG" },
+              { src: "/img/slide10.JPG" },
+              { src: "/img/slide12.JPG" },
+              { src: "/img/slide13.JPG" },
+              { src: "/img/slide15.JPG" },
+              { src: "/img/slide16.JPG" },
+          ]
+      });
+    </script>
   </body>
+
+
 
 </html>
