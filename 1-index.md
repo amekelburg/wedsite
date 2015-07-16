@@ -17,4 +17,4 @@ Through the powers of Facebook and the allure of Boston and the New England Patr
 
 ### The Proposal
 
-Alex and Rachel had a trip to St. Croix planned for Rachel's February school break. They flew from Boston to Baltimore on Friday, Feb 13th, from Baltimore to San Juan on Saturday, Feb 14th, and by Sunday they would be in St. Croix. With Saturday being Valentines Day,  
+Alex and Rachel had a trip to St. Croix planned for Rachel's February school break. They flew from Boston to Baltimore on Friday, Feb 13th, from Baltimore to San Juan on Saturday, Feb 14th, and by Sunday they would be in St. Croix. With Saturday being Valentines Day, Alex
