@@ -20,7 +20,7 @@
     {% include footer.html %}
 
     <script>
-      $(".slideshow").vegas({
+      $("#home-slideshow").vegas({
           delay: 2500,
           slides: [
               { src: "/img/slide1.JPG" },
@@ -41,7 +41,22 @@
               { src: "/img/slide16.JPG" },
           ]
       });
-    </script>
+
+        $("#celeb-slideshow").vegas({
+            delay: 2500,
+            align: "top", 
+            slides: [
+                { src: "/img/celeb1.JPG" },
+                { src: "/img/celeb2.JPG" },
+                { src: "/img/celeb3.JPG" },
+                { src: "/img/celeb4.JPG" },
+                { src: "/img/celeb5.JPG" },
+                { src: "/img/celeb6.JPG" },
+                { src: "/img/celeb7.JPG" },
+                { src: "/img/celeb8.JPG" },
+            ]
+        });
+      </script>
   </body>
 
 

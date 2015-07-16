@@ -1,11 +1,42 @@
 ---
 layout: page
-title: Travel and Accomodations
+title: Travel & Accomodations
 permalink: /travel-and-accomodations/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+### Getting to Portland 
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+Portland, Maine is about an hour and forty-five minute drive from Boston. 
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+#### By Bus
+
+There are busses that leave from South Station or Logan Airport for about $25-30 each way, and they run about once an hour. They often require reservations ahead of time, and the website can be found [here](http://concordcoachlines.com).
+
+#### By Train
+
+Amtrak may take a bit longer, but it is far more comfortable and can be less expensive than the bus if you make your reservation far enough in advance. They only go to Portland from North Station and don't run as often, however, so be sure to check the schedule early to see if it will work for you. Information and schedules for trains can be found [here](http://www.amtrak.com/home).
+
+
+#### By Air
+There is an airport in Portland! If you are flying to get to the wedding, first of all, thank you!!! It means the world to us that you are making the trip to share this big day in our life together with us. There are 5 airlines that go to Portland: Delta, JetBlue, Southwest, United, and US Airways. The easiest option for you would be to fly directly into Portland and take a taxi to your hotel. If you are staying in downtown Portland, you will not need to rent a car. Everything is within walking distance and Portland also has both Uber and excellent taxis. 
+
+
+
+
+### Staying in Portland
+There are very few overnight accommodations on Peaks Island. If you are only planning to stay one or two nights, your best bet is to stay in Portland. 
+
+
+### Parking
+
+![](/img/parking1.jpg)!
+
+![](/img/parking2.jpg)
+
+### Getting to the Wedding
+
+To get to our wedding, you will need to take the Casco Bay Ferry located at 56 Commercial Street in Portland. The best ferry to take to arrive on time to our ceremony is the 3:15pm ferry. If you wish to take an earlier ferry, the ferry schedule can be found [here](http://www.cascobaylines.com/schedules/peaks-island-schedule/summer/). There are many fun things to do on Peaks Island, such as [golf cart tours](http://www.peaksislandtours.com/), a [Civil War museum](http://www.eighthmaine.com/), [sea kayaking](http://www.maineislandkayak.com/), or perusing an [art gallery](http://www.richardboydartgallery.com/). We ask that you do not arrive to the venue earlier than 3:30pm, as there will still be reception set-up and formal photos being taken. 
+
+#### Water Taxis
+
+If you miss the ferry,but don't want to miss the ceremony, there are water taxis you can take to Peaks Island. They cost a flat rate of $55 for up to 6 people. They pick up passengers at a dock to the right of the Casco Bay ferries but before the Flatbread Company restaurant. If there is not a taxi waiting at the dock below, please call 207-879-2562 and they will send a water taxi over for you.
