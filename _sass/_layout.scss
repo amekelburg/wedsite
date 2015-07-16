@@ -287,17 +287,33 @@ h2 {
     
     .content-with-slideshow {
       float: left;
-      width: 60%;
+      width: 55%;
       padding-right: 5%;
+      @include media-query($on-palm) {
+        width: 100%;
+        padding-right: 0;
+      }
     }
     #home-slideshow {
-      float: left;
-      width: 300px;
+      float: right;
+      width: 40%;
+      margin: 40px 20px;
       height: 250px;
+      @include media-query($on-palm) {
+        float: none;
+        margin: 20px 0;
+        width: 100%;
+      }   
+         
     }
     #celeb-slideshow {
       width: 280px;
       height: 420px;
+    }
+    
+    a.large-link {
+      font-weight: bold;
+      font-size: 20px;
     }
     
 }

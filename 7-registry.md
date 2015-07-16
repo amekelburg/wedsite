@@ -15,4 +15,4 @@ We will have a card basket at the wedding, but we strongly request that you do n
 
 Please help us make our home perfect!
 
-**[weddingrepublic.com/mekelhammer](http://weddingrepublic/com/mekelhammer)**
+[weddingrepublic.com/mekelhammer](http://weddingrepublic/com/mekelhammer){:.large-link}

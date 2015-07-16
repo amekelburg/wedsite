@@ -29,7 +29,7 @@ There are very few overnight accommodations on Peaks Island. If you are only pla
 
 ### Parking
 
-![](/img/parking1.jpg)!
+![](/img/parking1.jpg)
 
 ![](/img/parking2.jpg)
 
