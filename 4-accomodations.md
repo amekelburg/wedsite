@@ -24,7 +24,24 @@ There is an airport in Portland! If you are flying to get to the wedding, first 
 
 
 ### Staying in Portland
-There are very few overnight accommodations on Peaks Island. If you are only planning to stay one or two nights, your best bet is to stay in Portland. 
+There are very few overnight accommodations on Peaks Island. If you are only planning to stay one or two nights, your best bet is to stay in Portland. We have room blocks in two hotels downtown, only a few blocks from the ferry terminal. However, the rooms are released to the public if they're not all booked by May 29th, so book early!!!
+
+#### The Portland Regency Hotel and Spa
+
+(Image of Regency)
+
+20 Milk Street Portland, Maine 04101 
+207-774-4200 or 800-727-3436
+$339/night for one or two nights. Valet parking $12/night. Book by May 29th!
+
+
+#### The Hampton Inn Portland Downtown Waterfront
+
+(Image of Hampton inn)
+
+209 Fore Street, Portland, ME 04101
+207-775-1454
+$249/night, TWO nights required. Valet parking $15/night. Book by June 8th!
 
 
 ### Parking
