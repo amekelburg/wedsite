@@ -31,8 +31,8 @@ There are very few overnight accommodations on Peaks Island. If you are only pla
 (Image of Regency)
 
 20 Milk Street Portland, Maine 04101 
-207-774-4200 or 800-727-3436
-$339/night for one or two nights. Valet parking $12/night. Book by May 29th!
+  207-774-4200 or 800-727-3436
+  $339/night for one or two nights. Valet parking $12/night. Book by May 29th!
 
 
 #### The Hampton Inn Portland Downtown Waterfront
@@ -40,8 +40,8 @@ $339/night for one or two nights. Valet parking $12/night. Book by May 29th!
 (Image of Hampton inn)
 
 209 Fore Street, Portland, ME 04101
-207-775-1454
-$249/night, TWO nights required. Valet parking $15/night. Book by June 8th!
+  207-775-1454
+  $249/night, TWO nights required. Valet parking $15/night. Book by June 8th!
 
 
 ### Parking
