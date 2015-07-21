@@ -23,5 +23,5 @@ All at the Harbor View at Jones Landing.
 ### Sunday, July 10th
 
 * Farewell Breakfast TBD
-* Fly to St. Croix!
+* Fly to [St. Croix](/st-croix/)!
 
