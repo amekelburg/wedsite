@@ -6,7 +6,7 @@ permalink: /important-info/
 
 ### So the wedding's on an island?
 
-Yup, you got it! The wedding is on Peaks Island- about 15 minutes off the coast of Portland, Maine. There is a 3:15pm ferry that will take you over in perfect time for the ceremony, which is located immediately to the left of the ferry landing on the island. If you miss the ferry, there are water taxis available to the right of the ferry dock. You can find a more detailed explanation on water taxis on the Travel and Accommodations page. 
+Yup, you got it! The wedding is on Peaks Island- about 15 minutes off the coast of Portland, Maine. There is a 3:15pm ferry that will take you over in perfect time for the ceremony, which is located immediately to the left of the ferry landing on the island. If you miss the ferry, there are water taxis available to the right of the ferry dock. You can find a more detailed explanation on water taxis on the [Travel and Accommodations](/travel-and-accomodations/) page. 
 
 (ferry pic on side)
 
@@ -17,7 +17,7 @@ There is NO PARKING for cars at our venue, so please do not try to bring a car o
 
 There are several parking garages near the ferry in Portland. The most convenient is the Casco Bay Parking Garage located at the ferry terminal. This lot is often full, so if it is for you, there's another garage that often has spots. It's called New Ocean Gateway Garage and it's located at the corner of India St and Fore St. 
 
-For additional parking information, please see the [Travel and Accommodations page](/travel-and-accomodations/). 
+For additional parking information, please see the [Travel and Accommodations](/travel-and-accomodations/) page. 
 
 
 ### What should I wear?
@@ -30,4 +30,3 @@ Our wedding style is casual yet romantic. No heels or ties necessary- this is no
 ### Where are we going?
 
 As we get closer to the event date, this section will be updated with a hand-drawn map of where to go. Please check back soon!
-
