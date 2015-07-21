@@ -58,6 +58,6 @@ There are very few overnight accommodations on Peaks Island. If you are only pla
 
 To get to our wedding, you will need to take the Casco Bay Ferry located at 56 Commercial Street in Portland. The best ferry to take to arrive on time to our ceremony is the 3:15pm ferry. If you wish to take an earlier ferry, the ferry schedule can be found [here](http://www.cascobaylines.com/schedules/peaks-island-schedule/summer/). There are many fun things to do on Peaks Island, such as [golf cart tours](http://www.peaksislandtours.com/), a [Civil War museum](http://www.eighthmaine.com/), [sea kayaking](http://www.maineislandkayak.com/), or perusing an [art gallery](http://www.richardboydartgallery.com/). We ask that you do not arrive to the venue earlier than 3:30pm, as there will still be reception set-up and formal photos being taken. 
 
-#### Water Taxis
+### Water Taxis
 
 If you miss the ferry,but don't want to miss the ceremony, there are water taxis you can take to Peaks Island. They cost a flat rate of $55 for up to 6 people. They pick up passengers at a dock to the right of the Casco Bay ferries but before the Flatbread Company restaurant. If there is not a taxi waiting at the dock below, please call 207-879-2562 and they will send a water taxi over for you.
