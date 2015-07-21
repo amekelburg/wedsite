@@ -4,11 +4,11 @@ title: Schedule
 permalink: /events-and-schedule/
 ---
 
-## Friday, July 8th
+### Friday, July 8th
 
 Welcome drinks TBD
 
-## Saturday, July 9th
+### Saturday, July 9th
 
   **Casco Bay Ferry**  
 56 Commercial Street, Portland, ME 04010
@@ -29,7 +29,7 @@ Located immediately to the left of the ferry terminal on Peaks Island.
 
 * TBD After-party Drinks
 
-## Sunday, July 10th
+### Sunday, July 10th
 
 * Farewell Breakfast TBD
 * Fly to [St. Croix](/st-croix/)!
