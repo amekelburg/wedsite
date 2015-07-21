@@ -10,7 +10,7 @@ Welcome drinks TBD
 
 ## Saturday, July 9th
 
-#### Casco Bay Ferry  
+  **Casco Bay Ferry**  
 56 Commercial Street, Portland, ME 04010
 
   * 3:15pm Ferry  
@@ -18,7 +18,7 @@ Welcome drinks TBD
 
 ![ferry](/img/IMG_1389.JPG)
 
-#### All at the Harbor View at Jones Landing.  
+  **All at the Harbor View at Jones Landing**  
 Located immediately to the left of the ferry terminal on Peaks Island.
 
 * 4:00pm Ceremony 
