@@ -43,6 +43,10 @@ There are very few overnight accommodations on Peaks Island. If you are only pla
   207-775-1454  
   **$249/night, TWO nights required. Valet parking $15/night. Book by June 8th!**
 
+#### AirB&B
+
+[AirB&B](https://www.airbnb.com/s/Portland--ME--United-States?checkin=07%2F09%2F2016&checkout=07%2F10%2F2016&guests=&zoom=15&search_by_map=true&sw_lat=43.64853228719109&sw_lng=-70.26805522256291&ne_lat=43.672880266453184&ne_lng=-70.25659682565129&ss_id=x19ew8y0) is also a GREAT option and one that Rachel & Alex often choose when they travel. It is a site where real people put their own apartments, homes, or extra bedrooms up as a short-term rental, in this case, only one night!
+
 
 ## Parking
 
