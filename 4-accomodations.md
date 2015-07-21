@@ -56,7 +56,7 @@ There are very few overnight accommodations on Peaks Island. If you are only pla
 
 ## Getting to the Wedding
 
-To get to our wedding, you will need to take the Casco Bay Ferry located at 56 Commercial Street in Portland. The best ferry to take to arrive on time to our ceremony is the 3:15pm ferry. If you wish to take an earlier ferry, the ferry schedule can be found [here](http://www.cascobaylines.com/schedules/peaks-island-schedule/summer/). There are many fun things to do on Peaks Island, such as [golf cart tours](http://www.peaksislandtours.com/), a [Civil War museum](http://www.eighthmaine.com/), [sea kayaking](http://www.maineislandkayak.com/), or perusing an [art gallery](http://www.richardboydartgallery.com/). We ask that you do not arrive to the venue earlier than 3:30pm, as there will still be reception set-up and formal photos being taken. 
+To get to our wedding, you will need to take the Casco Bay Ferry located at 56 Commercial Street in Portland. The best ferry to take to arrive on time to our ceremony is the 3:15pm ferry. If you wish to take an earlier ferry, the **ferry schedule can be found [here](http://www.cascobaylines.com/schedules/peaks-island-schedule/summer/)**. There are many fun things to do on Peaks Island, such as [golf cart tours](http://www.peaksislandtours.com/), a [Civil War museum](http://www.eighthmaine.com/), [sea kayaking](http://www.maineislandkayak.com/), or perusing an [art gallery](http://www.richardboydartgallery.com/). We ask that you please do not arrive to the venue earlier than 3:30pm, as there will still be reception set-up and formal photos being taken. 
 
 ### Water Taxis
 
