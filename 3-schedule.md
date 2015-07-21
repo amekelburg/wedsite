@@ -16,7 +16,7 @@ Welcome drinks TBD
   * 3:15pm Ferry  
 **Don't be late!** But if you are, check the info on **water taxis** on the [Travel & Accommodations](/travel-and-a commendations/) page.
 
-(Image of ferry)
+![ferry](/img/IMG_1389.JPG)
 
 #### All at the Harbor View at Jones Landing.  
 Located immediately to the left of the ferry terminal on Peaks Island.
