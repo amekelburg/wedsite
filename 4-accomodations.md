@@ -18,7 +18,7 @@ Amtrak may take a bit longer, but it is far more comfortable and can be less exp
 
 
 #### By Air
-There is an airport in Portland! If you are flying to get to the wedding, first of all, thank you!!! It means the world to us that you are making the trip to share this big day in our life together with us. There are 5 airlines that go to Portland: **Delta, JetBlue, Southwest, United, and US Airways**. The easiest option for you would be to fly directly into Portland and take a taxi to your hotel. If you are staying in downtown Portland, you will not need to rent a car. Everything is within walking distance and Portland also has both Uber and excellent taxis. 
+There is an airport in Portland! If you are flying to get to the wedding, first of all, thank you!!! It means the world to us that you are making the trip to share this big day in our life together with us. There are 5 airlines that go to Portland: **Delta, JetBlue, Southwest, United**, and **US Airways**. The easiest option for you would be to fly directly into Portland and take a taxi to your hotel. If you are staying in downtown Portland, you will not need to rent a car. Everything is within walking distance and Portland also has both Uber and excellent taxis. 
 
 
 
