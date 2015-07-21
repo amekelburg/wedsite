@@ -14,7 +14,7 @@ There are busses that leave from South Station or Logan Airport for about $25-30
 
 #### By Train
 
-Amtrak may take a bit longer, but it is far more comfortable and can be less expensive than the bus if you make your reservation far enough in advance. They only go to Portland from North Station and don't run as often, however, so be sure to check the schedule early to see if it will work for you. Information and schedules for trains can be found [here](http://www.amtrak.com/home).
+Amtrak may take a bit longer, but it is far more comfortable and can be less expensive than the bus if you make your reservation far enough in advance. They only go to Portland from North Station and don't run as often, so be sure to check the schedule early to see if it will work for you. Information and schedules for trains can be found [here](http://www.amtrak.com/home).
 
 
 #### By Air
