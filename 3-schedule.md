@@ -25,7 +25,7 @@ Located immediately to the left of the ferry terminal on Peaks Island.
 * 4:30-5:30pm Cocktail Hour
 * 5:30pm Reception
 
-![Harbor view at Jones Landing](/img/jones-landing.jpg)
+![Harbor view at Jones Landing](/img/jones-landing.jpg){:width="500px"}
 
 * TBD After-party Drinks
 
