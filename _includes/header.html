@@ -16,14 +16,24 @@
       </a>
 
       <div class="trigger">
-        {% for page in site.pages %}
-          {% if page.title %}
-          <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+        {% for p in site.pages %}
+          {% if p.title %}
+            
+          <a class="page-link {% if p.title == page.title%}pinned{% endif %}" href="{{ p.url | prepend: site.baseurl }}">{{ p.title }}</a>
           {% endif %}
         {% endfor %}
       </div>
     </nav>
 
   </div>
-
 </header>
+<div class='fader' id="fader-1"></div>
+<div class='fader' id="fader-2"></div>
+<div class='fader' id="fader-3"></div>
+<div class='fader' id="fader-4"></div>
+<div class='fader' id="fader-5"></div>
+<div class='fader' id="fader-6"></div>
+<div class='fader' id="fader-7"></div>
+<div class='fader' id="fader-8"></div>
+<div class='fader' id="fader-9"></div>
+<div class='fader' id="fader-10"></div>

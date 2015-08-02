@@ -83,6 +83,13 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: 300;
 }
 
+h1, h2, h3, h4, h5, h6 {
+  font-family: "janda";
+  color: $w-coral;
+}
+h1 {
+  color: $w-green;
+}
 
 
 /**
@@ -93,11 +100,13 @@ a {
     text-decoration: none;
 
     &:visited {
-        color: darken($brand-color, 15%);
+        color: lighten($brand-color, 15%);
+        color: $brand-color;
     }
 
     &:hover {
         color: $text-color;
+        
         text-decoration: underline;
     }
 }
@@ -198,7 +207,7 @@ pre {
         vertical-align: middle;
 
         path {
-            fill: $grey-color;
+            fill: $text-color;
         }
     }
 }

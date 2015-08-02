@@ -13,20 +13,33 @@ $base-line-height: 1.5;
 
 $spacing-unit:     30px;
 
-$text-color:       #111;
-$background-color: #fdfdfd;
-$brand-color:      #2a7ae2;
+
+
+$w-red: #ff6d6c;
+$w-coral: #ffb082;
+$w-green: #86c8b6;
+$w-blue: #37b4d4;
+$w-dark-blue: #197084;
+
+
+$text-color:       white;
+$background-color: $w-red;
+$brand-color:      $w-blue;
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
 $grey-color-med:  #ababab;
 
+
 // Width of the content area
 $content-width:    900px;
 
-$on-palm:          600px;
-$on-laptop:        800px;
+$on-palm:          842px;
+$on-laptop:        850px;
+
+$header-desktop-height: 100px;
+$header-mobile-height: 56px;
 
 
 
