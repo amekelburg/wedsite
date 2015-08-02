@@ -14,7 +14,7 @@ Welcome drinks TBD
 56 Commercial Street, Portland, ME 04010
 
   * 3:15pm Ferry  
-**Don't be late!** But if you are, check the info on **water taxis** on the [Travel & Accommodations](/travel-and-a commendations/) page.
+**Don't be late!** But if you are, check the info on water taxis on the [Travel & Accommodations](/travel-and-a commendations/) page.
 
 ![ferry](/img/IMG_1389.JPG){:width="300px"}
 
