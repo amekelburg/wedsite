@@ -65,9 +65,9 @@ There are very few overnight accommodations on Peaks Island. If you are only pla
 
 ## Parking
 
-![](/img/parking1.jpg){:width="500px"}
+![](/img/parking1.jpg)
 
-![](/img/parking2.jpg){:width="500px"}
+![](/img/parking2.jpg)
 
 ## Getting to the Wedding
 
