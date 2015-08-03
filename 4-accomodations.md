@@ -50,9 +50,9 @@ There are very few overnight accommodations on Peaks Island. If you are only pla
 
 ![](/img/hilton_garden_inn.JPG){:width="500px"}
 
-  This is within walking distance from the airport, only a 10-minute drive from downtown. There will not be shuttles from the hotels to the ferry terminal, however, Uber is very inexpensive and is available in Portland, as well as cab service.  
-  209 Fore Street, Portland, ME 04101  
-  [Click here]() to make reservations for our wedding block online.  
+  This is within walking distance from the airport, and only a 10-minute drive from downtown. There will not be shuttles from the hotels to the ferry terminal, however, Uber is very inexpensive and is available in Portland, as well as cab service.  
+  145 Jetport Boulevard, Portland, Maine, 04102  
+  1-207-828-1117  
   **$189/night, for one or two nights. Self parking is complimentary. Book by June 8th!**
 
 
