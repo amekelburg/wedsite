@@ -38,7 +38,7 @@ There are very few overnight accommodations on Peaks Island. If you are only pla
 
 #### The Hampton Inn Portland Downtown Waterfront
 
-![](/img/hampton_inn.jpg)
+![](/img/hampton_inn.JPG)
 
   Only ONE block from the ferry terminal!!
   209 Fore Street, Portland, ME 04101  
@@ -48,7 +48,7 @@ There are very few overnight accommodations on Peaks Island. If you are only pla
 
 #### The Hilton Garden Inn Portland Airport
 
-![](/img/hilton_garden_inn.jpg)
+![](/img/hilton_garden_inn.JPG)
 
   This is within walking distance from the airport, only a 10-minute drive from downtown. There will not be shuttles from the hotels to the ferry terminal, however, Uber is very inexpensive and is available in Portland, as well as cab service.  
   209 Fore Street, Portland, ME 04101  
@@ -58,7 +58,7 @@ There are very few overnight accommodations on Peaks Island. If you are only pla
 
 #### AirBnB
 
-![](/img/airbnb.jpg)
+![](/img/airbnb.JPG)
 
 [AirBnB](https://www.airbnb.com/s/Portland--ME--United-States?checkin=07%2F09%2F2016&checkout=07%2F10%2F2016&guests=&zoom=15&search_by_map=true&sw_lat=43.64853228719109&sw_lng=-70.26805522256291&ne_lat=43.672880266453184&ne_lng=-70.25659682565129&ss_id=x19ew8y0) is also a GREAT option and one that Rachel & Alex often choose when they travel. It is a site where real people put their own apartments, homes, or extra bedrooms up as a short-term rental, in this case, only one night! There are over 40 places available in downtown Portland, ranging from $65-$200/night. A few of those are 2-bedroom apartments, so if you've got a friend or two also coming to the wedding, it'd be a great idea (and a whole lot of fun- who doesn't like slumber parties?) to call them up and go in on an apartment for the night together!
 
