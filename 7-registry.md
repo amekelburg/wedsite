@@ -4,7 +4,7 @@ title: Registry
 permalink: /registry/
 ---
 
-  ![](/img/wedding_republic.JPG)  
+  ![](/img/wedding_republic.JPG){:watch="500px")  
   [weddingrepublic.com/mekelhammer](http://weddingrepublic.com/mekelhammer){:.large-link}
 
 As we both come from years of living on our own, we have a sufficent collection all the necessary home goods. To prevent owning a third blender or coffee maker, we ask instead for your help renovating our home! 
