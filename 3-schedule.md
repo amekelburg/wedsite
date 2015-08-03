@@ -14,9 +14,9 @@ Welcome drinks TBD
 56 Commercial Street, Portland, ME 04010
 
   * 3:15pm Ferry  
-**Don't be late!** But if you are, check the info on **water taxis** on the [Travel & Accommodations](/travel-and-a commendations/) page.
+**Don't be late!** But if you are, check the info on water taxis on the [Travel & Accommodations](/travel-and-a commendations/) page.
 
-![ferry](/img/IMG_1389.JPG){:width="300px"}
+![ferry](/img/IMG_1389.JPG){:width="500px"}
 
   **All at the Harbor View at Jones Landing**  
 Located immediately to the left of the ferry terminal on Peaks Island.
@@ -25,7 +25,7 @@ Located immediately to the left of the ferry terminal on Peaks Island.
 * 4:30-5:30pm Cocktail Hour
 * 5:30pm Reception
 
-![Harbor view at Jones Landing](/img/jones-landing.jpg)
+![Harbor view at Jones Landing](/img/jones-landing.jpg){:width="500px"}
 
 * TBD After-party Drinks
 
