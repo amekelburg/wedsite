@@ -28,7 +28,7 @@ There are very few overnight accommodations on Peaks Island. If you are only pla
 
 #### The Portland Regency Hotel and Spa
 
-(Image of Regency)
+![](/img/portland_regency.JPG)
 
   4 blocks from the ferry terminal!  
   20 Milk Street Portland, Maine 04101  
@@ -58,7 +58,7 @@ There are very few overnight accommodations on Peaks Island. If you are only pla
 
 #### AirBnB
 
-![](/img/airbnb.JPG)
+![](/img/airbnb.PNG)
 
 [AirBnB](https://www.airbnb.com/s/Portland--ME--United-States?checkin=07%2F09%2F2016&checkout=07%2F10%2F2016&guests=&zoom=15&search_by_map=true&sw_lat=43.64853228719109&sw_lng=-70.26805522256291&ne_lat=43.672880266453184&ne_lng=-70.25659682565129&ss_id=x19ew8y0) is also a GREAT option and one that Rachel & Alex often choose when they travel. It is a site where real people put their own apartments, homes, or extra bedrooms up as a short-term rental, in this case, only one night! There are over 40 places available in downtown Portland, ranging from $65-$200/night. A few of those are 2-bedroom apartments, so if you've got a friend or two also coming to the wedding, it'd be a great idea (and a whole lot of fun- who doesn't like slumber parties?) to call them up and go in on an apartment for the night together!
 
