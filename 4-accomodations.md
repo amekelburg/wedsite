@@ -42,7 +42,7 @@ There are very few overnight accommodations on Peaks Island. If you are only pla
 
   Only ONE block from the ferry terminal!!
   209 Fore Street, Portland, ME 04101  
-  [Click here]() to make reservations for our wedding block online.  
+  [Click here](http://hamptoninn.hilton.com/en/hp/groups/personalized/P/PWMDTHX-SMW-20160708/index.jhtml) to make reservations for our wedding block online.  
   **$249/night, TWO nights required. Valet parking $15/night. Book by June 8th!**
 
 
