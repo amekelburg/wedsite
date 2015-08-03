@@ -32,7 +32,7 @@ There are very few overnight accommodations on Peaks Island. If you are only pla
 
   4 blocks from the ferry terminal!  
   20 Milk Street Portland, Maine 04101  
-  207-774-4200 or 800-727-3436  
+  207-774-4200 or 800-727-3436 Be sure to mention the Schillhammer-Mekelburg wedding block!  
   **$339/night for one or two nights. Valet parking $12/night. Book by May 29th!**
 
 
