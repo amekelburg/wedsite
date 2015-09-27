@@ -6,7 +6,7 @@ permalink: /important-info/
 
 ### So the wedding's on an island?
 
-![ferry](/img/IMG_1389.JPG){:width="500px"}
+![harbor view jones landing](/img/HarborViewJonesLanding.jpg){:width="500px"}
 
 Yup, you got it! The wedding is on Peaks Island- about 15 minutes off the coast of Portland, Maine. There is a 3:15pm ferry that will take you over in perfect time for the ceremony, which is located immediately to the left of the ferry landing on the island. If you miss the ferry, there are water taxis available to the right of the ferry dock. You can find a more detailed explanation on water taxis on the [Travel and Accommodations](/travel-and-accomodations/) page. 
 
