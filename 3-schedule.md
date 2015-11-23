@@ -32,4 +32,3 @@ Located immediately to the left of the ferry terminal on Peaks Island.
 ### Sunday, July 10th
 
 * Farewell Breakfast TBD
-* Fly to [St. Croix](/st-croix/)!
