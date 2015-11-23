@@ -48,27 +48,27 @@
 .fader {
   z-index: 99;
   opacity: 0.3;
-  &#fader-1  { height: $header-desktop-height + 2px; }
-  &#fader-2  { height: $header-desktop-height + 4px; }
-  &#fader-3  { height: $header-desktop-height + 6px; }
-  &#fader-4  { height: $header-desktop-height + 8px; }
-  &#fader-5  { height: $header-desktop-height + 10px; }
-  &#fader-6  { height: $header-desktop-height + 12px; }
-  &#fader-7  { height: $header-desktop-height + 14px; }
-  &#fader-8  { height: $header-desktop-height + 16px; }
-  &#fader-9  { height: $header-desktop-height + 18px; }
-  &#fader-10 { height: $header-desktop-height + 20px; }
+  &#fader-1  { height: $header-desktop-height + 1px; }
+  &#fader-2  { height: $header-desktop-height + 2px; }
+  &#fader-3  { height: $header-desktop-height + 3px; }
+  &#fader-4  { height: $header-desktop-height + 4px; }
+  &#fader-5  { height: $header-desktop-height + 5px; }
+  &#fader-6  { height: $header-desktop-height + 6px; }
+  &#fader-7  { height: $header-desktop-height + 7px; }
+  &#fader-8  { height: $header-desktop-height + 8px; }
+  &#fader-9  { height: $header-desktop-height + 9px; }
+  &#fader-10 { height: $header-desktop-height + 10px; }
   @include media-query($on-palm) {
-    &#fader-1 { height: $header-mobile-height + 2px; }
-    &#fader-2 { height: $header-mobile-height + 4px; }
-    &#fader-3 { height: $header-mobile-height + 6px; }
-    &#fader-4 { height: $header-mobile-height + 8px; }
-    &#fader-5 { height: $header-mobile-height + 10px; }
-    &#fader-6 { height: $header-mobile-height + 12px; }
-    &#fader-7 { height: $header-mobile-height + 14px; }
-    &#fader-8 { height: $header-mobile-height + 16px; }
-    &#fader-9 { height: $header-mobile-height + 18px; }
-    &#fader-10 { height: $header-mobile-height + 20px; }
+    &#fader-1 { height: $header-mobile-height + 1px; }
+    &#fader-2 { height: $header-mobile-height + 2px; }
+    &#fader-3 { height: $header-mobile-height + 3px; }
+    &#fader-4 { height: $header-mobile-height + 4px; }
+    &#fader-5 { height: $header-mobile-height + 5px;  }
+    &#fader-6 { height: $header-mobile-height + 6px;  }
+    &#fader-7 { height: $header-mobile-height + 7px;  }
+    &#fader-8 { height: $header-mobile-height + 8px;  }
+    &#fader-9 { height: $header-mobile-height + 9px;  }
+    &#fader-10 {height: $header-mobile-height + 10px; }
   }
 
 }
@@ -274,7 +274,7 @@
   &:after {
     content: "";
     position: absolute;
-    opacity: 0.6;
+    opacity: 0.7;
     margin: -20px -15px;
     padding: 20px 15px;
     width: 100%;
