@@ -18,11 +18,11 @@ Welcome drinks TBD
 
 ![ferry](/img/IMG_1389.JPG){:width="500px"}
 
-  **All at the Harbor View at Jones Landing**  
+  **All at the Harbor View at Jones Landing:**  
 Located immediately to the left of the ferry terminal on Peaks Island.
 
-* 4:00pm Ceremony 
-* 4:30-5:30pm Cocktail Hour
+* 3:45pm Ceremony 
+* 4:00&mdash;5:30pm Cocktail Hour
 * 5:30pm Reception
 
 ![Harbor view at Jones Landing](/img/jones-landing.jpg){:width="500px"}
