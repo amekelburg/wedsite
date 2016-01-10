@@ -21,7 +21,7 @@
 /**
  * Site header
  */
-.site-header, .fader {
+.site-header, .fader, {
     
     position: fixed;
     top:0;
@@ -41,9 +41,35 @@
       z-index: -1;
     }
 
+    
+    #days-left {
+        display: none;
+        font-size: 24px;
+        text-align: center;
+        margin: .25em auto;
+        line-height: 1em;
+        height: 1em;
+        color: black;
+        span#days-left-count {
+            font-weight: bold;
+            color: $w-dark-blue;
+        }
+    }
+    
     @include media-query($on-palm) {
       height: $header-mobile-height;
+      #days-left {
+          font-size: 20px;
+          text-align: left;
+          margin: .25em 0;
+          padding-right: 15px;
+          padding-left: 15px;
+          span#days-left-count {
+          }
+      }
     }
+    
+    
 }
 .fader {
   z-index: 99;
@@ -137,10 +163,10 @@
         .menu-icon {
             display: block;
             float: right;
-            width: 66px;
+            width: 27px;
             height: 26px;
             line-height: 0;
-            padding: 10px 5px 0;
+            padding: 10px 9px 0 0px;
             text-align: right;
             color: $text-color;
             span {
@@ -377,6 +403,8 @@ h2 {
         float: none;
         margin: 20px 0;
         width: 100%;
+        max-width: 400px;
+        margin: 0px auto;
       }   
          
     }
