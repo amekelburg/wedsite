@@ -32,5 +32,4 @@ Our wedding style is casual yet romantic. No heels or ties necessary- this is no
 Here is a hand-drawn map illustrating all the important wedding event locations. Note: MAP IS NOT DRAWN TO SCALE!!  
 
 ![Map Front](/img/MapFront4x6.jpg)  
-  
 ![Map Back](/img/MapBack4x6.jpg)
