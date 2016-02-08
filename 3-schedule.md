@@ -9,7 +9,7 @@ permalink: /events-and-schedule/
   **Welcome drinks** 
 The Lion's Club on Peak's Island
 
-![lionsclub](/img/lions-club-2.JPG){:width="500px"}
+![lionsclub](/img/lions-club-2.JPG){:width="300px"}
 
 ### Saturday, July 9th
 
