@@ -29,4 +29,8 @@ Our wedding style is casual yet romantic. No heels or ties necessary- this is no
 
 ### Where are we going?
 
-As we get closer to the event date, this section will be updated with a hand-drawn map of where to go. Please check back soon!
+Here is a hand-drawn map illustrating all the important wedding event locations. Note: MAP IS NOT DRAWN TO SCALE!!  
+
+![Map Front](/img/MapFront4x6.jpg)  
+  
+![Map Back](/img/MapBack4x6.jpg)
