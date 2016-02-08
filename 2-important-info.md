@@ -36,4 +36,4 @@ Here is a hand-drawn map illustrating all the important wedding event locations.
 
 ### Hey, what about my kids?
 
-We are excited for all of you to enjoy our kid-free celebration, and also realize that many of you are not in the area, so we have done the work of finding a sitter for you! We will have two well-recommended and very responsible adults available on the island to look after your bundles of joy for an hourly rate while you are kicking up your heels with us. We will be updating the website with the specific details as we work them out closer to the event, but do know that this is an option should you need it.
+We are excited for **ALL** of you to enjoy our kid-free celebration, and also realize that many of you are not from the area, so we have done the work of finding a sitter for you! We will have two well-recommended and very responsible adults available at the 8th Maine Regiment Inn on the island to look after your bundles of joy for an hourly rate while you are kicking up your heels with us. We will be updating the website with the specific details as we work them out closer to the event, but do know that this is an option should you need it.
