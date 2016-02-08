@@ -29,31 +29,34 @@ There are very few overnight accommodations on Peaks Island. If you are only pla
 
 ![](/img/portland_regency.JPG){:width="500px"}
 
+  **$339/night for one or two nights. Valet parking $12/night. Book by May 29th!**  
   4 blocks from the ferry terminal!  
   20 Milk Street Portland, Maine 04101  
   207-774-4200 or 800-727-3436 Be sure to mention the Schillhammer-Mekelburg wedding block!  
-  **$339/night for one or two nights. Valet parking $12/night. Book by May 29th!**
+
 
 
 #### The Hampton Inn Portland Downtown Waterfront
 
 ![](/img/hampton_inn.JPG){:width="500px"}
 
+  **$249/night, TWO nights required. Valet parking $15/night. Book by June 8th!**  
   Only ONE block from the ferry terminal!!
   209 Fore Street, Portland, ME 04101  
   [Click here](http://hamptoninn.hilton.com/en/hp/groups/personalized/P/PWMDTHX-SMW-20160708/index.jhtml?WT.mc_id=POG) to make reservations for our wedding block online.  
-  **$249/night, TWO nights required. Valet parking $15/night. Book by June 8th!**
+
 
 
 #### The Hilton Garden Inn Portland Airport
 
 ![](/img/hilton_garden_inn.JPG){:width="500px"}
 
+  **$189/night, for one or two nights. Self parking is complimentary. Book by June 8th!**  
   This is within walking distance from the airport, and only a 10-minute drive from downtown. There will not be shuttles from the hotels to the ferry terminal. However, [Uber](https://www.uber.com/invite/0saxs) is very inexpensive and if you sign up now, your first ride is free!  
   145 Jetport Boulevard, Portland, Maine, 04102  
   1-207-828-1117, be sure to mention the Schillhammer-Mekelburg room block!  
   If you choose to [book online](http://hiltongardeninn3.hilton.com/en/hotels/maine/hilton-garden-inn-portland-airport-PWMPAGI/index.html), the **group code is SSM.** Click the "special rate" link before searching for a room, or on the left sidebar after searching for rooms.  
-  **$189/night, for one or two nights. Self parking is complimentary. Book by June 8th!**
+
 
 
 #### AirBnB
