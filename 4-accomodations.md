@@ -51,8 +51,8 @@ There are very few overnight accommodations on Peaks Island. If you are only pla
 
   This is within walking distance from the airport, and only a 10-minute drive from downtown. There will not be shuttles from the hotels to the ferry terminal. However, [Uber](https://www.uber.com/invite/0saxs) is very inexpensive and if you sign up now, your first ride is free!  
   145 Jetport Boulevard, Portland, Maine, 04102  
-  1-207-828-1117, be sure to mention the Schillhammer-Mekelburg room block!
-  If you choose to [book online](http://hiltongardeninn3.hilton.com/en/hotels/maine/hilton-garden-inn-portland-airport-PWMPAGI/index.html), the **group code is SSM.** You will need to click the "special rate" link before searching for a room, or on the left sidebar after searching for rooms. 
+  1-207-828-1117, be sure to mention the Schillhammer-Mekelburg room block!  
+  If you choose to [book online](http://hiltongardeninn3.hilton.com/en/hotels/maine/hilton-garden-inn-portland-airport-PWMPAGI/index.html), the **group code is SSM.** You will need to click the "special rate" link before searching for a room, or on the left sidebar after searching for rooms.  
   **$189/night, for one or two nights. Self parking is complimentary. Book by June 8th!**
 
 
