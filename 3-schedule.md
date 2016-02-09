@@ -10,7 +10,8 @@ permalink: /events-and-schedule/
 The Lion's Club on Peak's Island  
 2 Garden Pl, Peaks Island, ME 04108
 
-![lionsclub1](/img/lions-club-2.JPG){:width="500px"}
+<div id="lions-slideshow"> </div>
+
 
 ### Saturday, July 9th
 
