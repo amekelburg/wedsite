@@ -14,14 +14,15 @@ permalink: /nola/
 Thursday, April 21
 
 * Get settled
+* 1:30pm Lunch at [Commanders Palace](http://www.commanderspalace.com/) (semi-fancy)
 * Explore the French Quarter with To-Go drinks
 * Frenchman St jazz
 
 Friday, April 22
 
-* Lunch at [Commanders Palace](http://www.commanderspalace.com/) (semi-fancy)
 * [Jazz Fest](http://lineup.nojazzfest.com/?sort=FridayApril22)
-* Crawfish boil (at the house)?
+* More French Quarter exploration
+* 5pm Crawfish boil at Superior Seafood and Oyster Bar (http://www.superiorseafoodnola.com/)
 * Bourbon St. Bar Crawl and/or Frenchman St. Jazz
 
 Saturday, April 23
