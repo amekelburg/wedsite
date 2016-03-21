@@ -22,7 +22,7 @@ Friday, April 22
 
 * [Jazz Fest](http://lineup.nojazzfest.com/?sort=FridayApril22)
 * More French Quarter exploration
-* 5pm Crawfish boil at Superior Seafood and Oyster Bar (http://www.superiorseafoodnola.com/)
+* 5pm Crawfish boil at [Superior Seafood and Oyster Bar](http://www.superiorseafoodnola.com/)
 * Bourbon St. Bar Crawl and/or Frenchman St. Jazz
 
 Saturday, April 23
