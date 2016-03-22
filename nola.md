@@ -11,7 +11,7 @@ You may want to bring some [Drinkwel](http://amzn.to/1RhuEPH).
 
 [Buy Jazz Fest Tickets](http://www.nojazzfest.com/tickets/)
 
-Thursday, April 21
+#### Thursday, April 21
 
 * Get settled
 * **1:30pm**
@@ -22,9 +22,7 @@ Thursday, April 21
 * Frenchman St jazz & Dinner
   Dinner is currently unplanned, and we will happily take suggestions if you're familiar with the area. In the evening, we will likely be strolling down Frenchman Street where all the jazz clubs are, stopping in wherever sounds good... literally! Dress is casual.
   
-
-
-Friday, April 22
+#### Friday, April 22
 
 * Begneits and Coffee!
 * Currently, Friday for lunch is unplanned, so if you are truly saddened to be missing the Thursday [Commander's Palace](http://www.commanderspalace.com/) lunch, please feel free to make your own reservations for Friday and enjoy all the things then!! But if you'd like to do this, do it soon - reservations book up fast. 
@@ -38,8 +36,7 @@ Friday, April 22
   2. Alex will be doing what Alex does best: jazz and drinking! He will be heading back to Frenchmen Street and hitting the jazz clubs because there's endless amounts of amazing music in NOLA and great whiskey at d.b.a. You wear what you want.
 
 
-
-Saturday, April 23
+#### Saturday, April 23
 
 * Our only plan is [Jazz Fest](http://lineup.nojazzfest.com/?sort=SaturdayApril23). Pearl Jam is playing and Rachel, for one, is STOKED. Jazz Fest is held in a park, and tickets are basically an entrance fee for the all-day open-air festival event. Pack sunscreen and perhaps a hat. Dress comfortably, especially footwear.
 
