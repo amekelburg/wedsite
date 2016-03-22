@@ -41,7 +41,7 @@ You may want to bring some [Drinkwel](http://amzn.to/1RhuEPH).
 * Our only plan is [Jazz Fest](http://lineup.nojazzfest.com/?sort=SaturdayApril23). Pearl Jam is playing and Rachel, for one, is STOKED. Jazz Fest is held in a park, and tickets are basically an entrance fee for the all-day open-air festival event. Pack sunscreen and perhaps a hat. Dress comfortably, especially footwear.
 
 
-Sunday, April 24
+#### Sunday, April 24
 
 * Rachel & Alex fly back north in the late morning/early afternoon. If you're staying in the area, the Red Hot Chili Peppers will be at [Jazz Fest](http://lineup.nojazzfest.com/?sort=SundayApril24) on Sunday. Enjoy them for Rachel - she is devastated to be missing them.
 
