@@ -22,7 +22,7 @@ For additional parking information, please see the [Travel and Accommodations](/
 
 ### What should I wear?
 
-Our wedding style is casual yet romantic. No heels or ties necessary- this is not the Cannes Film Festival! We want you to feel great in what you're wearing. Here are some celebs who have graciously agreed to model appropriate attire for our wedding:
+Our wedding style is fun and romantic. No heels, ties, or suit jackets necessary- this is not the Cannes Film Festival! Rachel will be wearing flats and Alex will be wearing a vest and collared shirt, no jacket. We want you to feel as GREAT in what you're wearing as we do! Here are some celebs who have graciously agreed to model appropriate attire for our wedding:
 
 <div id="celeb-slideshow"> </div>
 
