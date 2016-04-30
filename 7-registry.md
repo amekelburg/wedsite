@@ -4,7 +4,7 @@ title: Registry
 permalink: /registry/
 ---
 
-  [![](/img/wedding_republic.JPG){: width="500px"}](http://weddingrepublic.com/mekelhammer)
+  [![](/img/honeyfund.jpg){: width="500px"}](http://www.honeyfund.com/wedding/mekelhammer)
 
 As we both come from years of living on our own, we have a sufficent collection all the necessary home goods. To prevent owning a third blender or coffee maker, we ask instead for your help renovating our home or contributing to the awesomeness of our honeymoon! 
 
@@ -19,4 +19,4 @@ We will have a card basket at the wedding, but we strongly request that you do n
 
 Please help us make our home perfect!
 
-[weddingrepublic.com/mekelhammer](http://weddingrepublic.com/mekelhammer){:.large-link}
+[honeyfund.com/wedding/mekelhammer](http://www.honeyfund.com/wedding/mekelhammer){:.large-link}
