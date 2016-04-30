@@ -4,7 +4,7 @@ title: Registry
 permalink: /registry/
 ---
 
-  [![](/img/honeyfund.jpg){: width="500px"}](http://www.honeyfund.com/wedding/mekelhammer)
+  [![](/img/honeyfund.ong)](http://www.honeyfund.com/wedding/mekelhammer)
 
 As we both come from years of living on our own, we have a sufficent collection all the necessary home goods. To prevent owning a third blender or coffee maker, we ask instead for your help renovating our home or contributing to the awesomeness of our honeymoon! 
 
