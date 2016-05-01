@@ -36,4 +36,6 @@ Located immediately to the left of the ferry terminal on Peaks Island.
 
 ### Sunday, July 10th
 
-* Farewell Breakfast TBD
+  **11am Bagels & Bubbly**   
+The 8th Maine Lodge on Peaks Isand
+13 8th Maine Ave, Peaks Island, Maine 04108
