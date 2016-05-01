@@ -34,8 +34,7 @@ Located immediately to the left of the ferry terminal on Peaks Island.
 
 ![Harbor view at Jones Landing](/img/jones-landing.jpg){:width="500px"}
 
-* 10pm - ?? After-party at Ri Ra Irish Pub. Head to the bar upstairs toward the back.  
-
+**10pm - ?? After-party at Ri Ra Irish Pub. ** Head to the bar upstairs toward the back.  
 72 Commercial Street, Portland, ME 04101
 
 ### Sunday, July 10th
