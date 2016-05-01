@@ -29,10 +29,13 @@ Located immediately to the left of the ferry terminal on Peaks Island.
 * 3:45pm Ceremony 
 * 4:00&mdash;5:30pm Cocktail Hour
 * 5:30pm Reception
+* 9:30pm Sparkler Send-off
+* 9:45pm Ferry back to Porltand
 
 ![Harbor view at Jones Landing](/img/jones-landing.jpg){:width="500px"}
 
-* TBD After-party Drinks
+* 10pm - ?? After-party at Ri Ra Irish Pub. Head to the bar upstairs toward the back.
+72 Commercial Street, Portland, ME 04101
 
 ### Sunday, July 10th
 
