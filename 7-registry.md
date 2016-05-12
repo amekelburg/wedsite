@@ -12,10 +12,16 @@ We live in a 304 sq.ft studio apartment in the North End, and we LOVE it. Howeve
 
 For our honeymoon, we will be spending **5 weeks** in Italy! We have our travel, lodging and some of the itinerary planned out, but are hoping for even more adventures and awesome food experiences.
 
-We will have a card basket at the wedding, but we strongly request that you do not bring wrapped gifts, so that we have less to carry back with us on the ferry! If you would prefer to send us a card directly, here is our mailing address:
+We will have a card basket at the wedding, but we strongly request that you do not bring wrapped gifts, so that we have less to carry back with us on the ferry! If you would prefer to send us a card directly (but, please, no packages), here is our mailing address:
 
-  **16 Henchman Street, apt 5R**  
+  **16 Henchman Street, Apt 5R**  
 **Boston, MA 02113**
+
+If you'd like to send a package, please do **not** mail it to us at that address - we can't securely accept packages here, especially ones we don't know are coming. Instead, you can mail it to us at:
+
+  **C/O Chris Wisdo**  
+  **80 Summer Street, Apt 5**  
+**Boston, MA 02110**
 
 Please help us make our home perfect!
 
