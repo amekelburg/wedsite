@@ -27,7 +27,7 @@ Please help us make our home perfect!
 
 [honeyfund.com/wedding/mekelhammer](http://www.honeyfund.com/wedding/mekelhammer){:.large-link}
 
-We would also be thrilled if you would like to mark the occastion by donating to a cause you care about. Here are some of our favorites:
+We would also be thrilled if you would like to mark the occasion by donating to a cause you care about. Here are some of our favorites:
 
 * [The Animal Rescue League of Boston](http://www.arlboston.org/donate/)
 * [The French Cultural Center of Boston](http://frenchculturalcenter.org/donations/)
