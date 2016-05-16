@@ -29,9 +29,9 @@ Please help us make our home perfect!
 
 We would also be thrilled if you would like to mark the occastion by donating to a cause you care about. Here are some of our favorites:
 
-* The Animal Rescue League of Boston: http://www.arlboston.org/donate/
-* The French Cultural Cneter of Boston: http://frenchculturalcenter.org/donations/
-* The Roots of Music, New Orleans: http://therootsofmusic.org/donate/
+* [The Animal Rescue League of Boston](http://www.arlboston.org/donate/)
+* [The French Cultural Cneter of Boston](http://frenchculturalcenter.org/donations/)
+* [The Roots of Music, New Orleans](http://therootsofmusic.org/donate/)
 
 
 
