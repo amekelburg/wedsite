@@ -42,3 +42,4 @@ Located immediately to the left of the ferry terminal on Peaks Island.
 The 8th Maine Lodge on Peaks Isand  
 13 8th Maine Ave, Peaks Island, Maine 04108
 
+![8th Maine](/img/IMG_4471.JPG){:width="500px"}
