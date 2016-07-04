@@ -162,7 +162,7 @@ pre {
 /**
  * Wrapper
  */
-.wrapper {
+.quick-info, .wrapper {
     max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit}));
     max-width:         calc(#{$content-width} - (#{$spacing-unit}));
     margin-right: auto;
@@ -179,6 +179,9 @@ pre {
     }
 }
 
+.quick-info {
+  margin-bottom:60px;
+}
 
 
 /**
