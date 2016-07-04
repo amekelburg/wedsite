@@ -4,6 +4,9 @@ title: Important Info
 permalink: /important-info/
 ---
 
+![call anyone but the bride](/img/call-anyone-but.jpg){:style="margin: 0 auto 2em; width:90%; display: block;"}
+
+
 ### So the wedding's on an island?
 
 ![harbor view jones landing](/img/HarborViewJonesLanding.jpg){:width="500px"}
