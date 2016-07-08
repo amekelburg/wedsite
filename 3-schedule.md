@@ -6,7 +6,7 @@ permalink: /events-and-schedule/
 
 ### Friday, July 8th
 
-  **8pm Welcome drinks & Snacks**   
+  **7:30pm Welcome drinks & Snacks**   
 The Lion's Club on Peak's Island  
 2 Garden Pl, Peaks Island, ME 04108
 
